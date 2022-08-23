@@ -1,7 +1,7 @@
 # Caffeine Dark
 Windows .NET 6 LTS application to prevent computer from going to sleep, and prevents "idle" status in other applications.
 
-![Example](https://user-images.githubusercontent.com/42287509/121074146-10c1eb80-c799-11eb-8ad2-cf4c97fdb4fd.jpg)
+![Example](https://raw.githubusercontent.com/balu100/Caffeine/main/eximage.png)
 ## Information:
 - Can minimize to system tray.
 - Prevents Windows from going to sleep while the program is running.
