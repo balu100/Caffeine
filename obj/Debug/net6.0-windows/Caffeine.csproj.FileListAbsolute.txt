@@ -1,0 +1,17 @@
+C:\Users\balu\source\repos\Caffeine\bin\Debug\net6.0-windows\Caffeine.exe
+C:\Users\balu\source\repos\Caffeine\bin\Debug\net6.0-windows\Caffeine.deps.json
+C:\Users\balu\source\repos\Caffeine\bin\Debug\net6.0-windows\Caffeine.runtimeconfig.json
+C:\Users\balu\source\repos\Caffeine\bin\Debug\net6.0-windows\Caffeine.dll
+C:\Users\balu\source\repos\Caffeine\bin\Debug\net6.0-windows\Caffeine.pdb
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.csproj.AssemblyReference.cache
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.MainWindow.resources
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.csproj.GenerateResource.cache
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.AssemblyInfoInputs.cache
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.AssemblyInfo.cs
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.csproj.CoreCompileInputs.cache
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.dll
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\refint\Caffeine.dll
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.pdb
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\Caffeine.genruntimeconfig.cache
+C:\Users\balu\source\repos\Caffeine\obj\Debug\net6.0-windows\ref\Caffeine.dll
